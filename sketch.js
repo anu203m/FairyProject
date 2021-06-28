@@ -29,6 +29,8 @@ function setup()
 	star.addImage(starImg);
 	star.scale = 0.2;
 
+	console.log()
+
 
 	engine = Engine.create();
 	world = engine.world;
